@@ -2,7 +2,7 @@
 A todo list app
 
 
-### General steps to follow when creating a project
+### Project Mock Up.
 
 - Thinking about the UI
 - Functionality
